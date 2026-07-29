@@ -1,2 +1,0 @@
-# AXION
-Landinpage para vendas
